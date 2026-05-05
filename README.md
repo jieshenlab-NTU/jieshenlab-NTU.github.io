@@ -2,7 +2,7 @@
 
 Static Hugo rebuild of the Shen Research Group website, based on the HugoBlox Research Group starter and deployed with GitHub Pages.
 
-Temporary publishing target: `https://kcajc.github.io/`.
+Temporary publishing target: `https://jieshenlab-NTU.github.io/`.
 
 ## Local development
 

@@ -49,7 +49,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: https://github.com/kcajc/kcajc.github.io
+    url: https://github.com/jieshenlab-NTU/jieshenlab-NTU.github.io
     content_dir: content
     branch: main
   avatar:
