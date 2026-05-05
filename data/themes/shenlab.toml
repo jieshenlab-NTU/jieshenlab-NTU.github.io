@@ -1,0 +1,18 @@
+name = "Shen Lab"
+
+[light]
+  primary = "#0f6f73"
+  link = "#0f6f73"
+  link_hover = "#094b4f"
+  menu_primary = "#ffffff"
+  menu_text = "#1f2d2f"
+  menu_text_active = "#0f6f73"
+  menu_title = "#1f2d2f"
+  home_section_odd = "rgb(255, 255, 255)"
+  home_section_even = "rgb(244, 249, 248)"
+
+[dark]
+  primary = "#80d7d9"
+  link = "#80d7d9"
+  link_hover = "#b9f0ef"
+
