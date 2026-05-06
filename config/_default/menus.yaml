@@ -2,11 +2,11 @@ main:
   - name: Home
     url: /
     weight: 10
-  - name: About
-    url: /about/
-    weight: 20
   - name: Research
     url: /research/
+    weight: 20
+  - name: Members
+    url: /members/
     weight: 30
   - name: Publications
     url: /publications/
@@ -14,4 +14,3 @@ main:
   - name: Join us!
     url: /join-us/
     weight: 50
-
