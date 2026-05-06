@@ -14,7 +14,4 @@ main:
   - name: Join us!
     url: /join-us/
     weight: 50
-  - name: Contacts
-    url: /contacts/
-    weight: 60
 
