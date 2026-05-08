@@ -43,7 +43,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Tang Meng</h2>
       <p class="shen-member-title">Research Fellow &middot; Shen Research Group</p>
       <div class="shen-member-meta">
-        <p><strong>Former University:</strong> Monash University</p>
+        <p><strong>Research interests:</strong> membrane </p>
         <p><strong>Email:</strong> <a href="mailto:meng.tang@ntu.edu.sg">meng.tang@ntu.edu.sg</a></p>
       </div>
       <p>Profile details will be added soon.</p>
@@ -58,6 +58,9 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <p class="shen-eyebrow">Research Fellow</p>
       <h2>Zhang Hao</h2>
       <p class="shen-member-title">Research Fellow &middot; Shen Research Group</p>
+         <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> membrane </p>
+        <p><strong>Email:</strong> <a href="mailto:meng.tang@ntu.edu.sg">hao-zhang@ntu.edu.sg</a></p>
       <p>Profile details will be added soon.</p>
     </div>
   </section>
