@@ -20,12 +20,9 @@ social:
   - icon: orcid
     icon_pack: ai
     link: https://orcid.org/0000-0002-0263-6454
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/jayshenng025
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/in/%E6%9D%B0-%E7%94%B3-871536b8/
+    link: https://www.linkedin.com/in/jie-shen-871536b8/
 email: ''
 highlight_name: false
 user_groups:
