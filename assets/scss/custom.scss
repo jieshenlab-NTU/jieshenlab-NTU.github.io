@@ -201,9 +201,14 @@
 .shen-member-group {
   color: #17393b;
   font-size: 1.35rem;
-  margin: 3rem 0 0;
-  padding-top: 1.25rem;
+  margin: 0.5rem 0 0;
+  padding-top: 5rem;
   border-top: 1px solid rgba(15, 111, 115, 0.22);
+}
+
+.shen-member + .shen-member-group {
+  margin-top: 0;
+  padding-top: 7.5rem;
 }
 
 .shen-member {
@@ -245,7 +250,7 @@
   letter-spacing: 0;
 }
 
-.shen-member-body h2 {
+.article-style .shen-member-body h2 {
   margin: 0 0 0.4rem;
 }
 

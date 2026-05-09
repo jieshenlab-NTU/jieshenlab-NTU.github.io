@@ -36,6 +36,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Tang Meng</h2>
+      <p class="shen-member-title">Research Fellow</p>
       <div class="shen-member-meta">
         <p><strong>Research interests:</strong> Membrane materials; separation applications</p>
         <p><strong>Email:</strong> <a href="mailto:meng.tang@ntu.edu.sg">meng.tang@ntu.edu.sg</a></p>
@@ -49,6 +50,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Zhang Hao</h2>
+      <p class="shen-member-title">Research Fellow</p>
       <div class="shen-member-meta">
         <p><strong>Research interests:</strong> Membrane materials; sustainable separation</p>
         <p><strong>Email:</strong> <a href="mailto:hao-zhang@ntu.edu.sg">hao-zhang@ntu.edu.sg</a></p>
@@ -64,6 +66,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Lu Changan</h2>
+      <p class="shen-member-title">PhD Student</p>
     </div>
   </section>
 
@@ -73,6 +76,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Li Yanan</h2>
+      <p class="shen-member-title">PhD Student</p>
     </div>
   </section>
 
@@ -84,6 +88,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Wang Junru</h2>
+      <p class="shen-member-title">MSc Student</p>
     </div>
   </section>
 
@@ -93,6 +98,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Li Yuefei</h2>
+      <p class="shen-member-title">MSc Student</p>
     </div>
   </section>
 
@@ -104,6 +110,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Zhang Rui</h2>
+      <p class="shen-member-title">Visiting Scholar</p>
     </div>
   </section>
 
@@ -113,6 +120,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Zhang Pengrui</h2>
+      <p class="shen-member-title">Visiting Scholar</p>
     </div>
   </section>
 
@@ -122,6 +130,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Liu Yazi</h2>
+      <p class="shen-member-title">Visiting Scholar</p>
     </div>
   </section>
 
@@ -131,6 +140,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Lin Sen</h2>
+      <p class="shen-member-title">Visiting Scholar</p>
     </div>
   </section>
 
@@ -142,6 +152,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Liang Xiaozheng</h2>
+      <p class="shen-member-title">Visiting Student</p>
     </div>
   </section>
 
@@ -150,6 +161,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   <section class="shen-member shen-member-text-only" id="ma-guangqiang">
     <div class="shen-member-body">
       <h2>Ma Guangqiang</h2>
+      <p class="shen-member-title">Alumni</p>
       <div class="shen-member-meta">
         <p> <strong>Currnet position:</strong> Prof at Harvard </p>
         <p><strong>Email:</strong> <a href="mailto:hao-zhang@ntu.edu.sg">hao-zhang@ntu.edu.sg</a></p>
