@@ -12,5 +12,5 @@ summary: Work on MoS2 monolayers for precise water separation has been accepted 
 
 Great News! Our work on MoS2 monolayers for precise water separation has finally been accepted in Science. What a journey!
 
-[Read here](https://www-science-org.remotexs.ntu.edu.sg/doi/abs/10.1126/science.ado7489).
+[Read more](https://www-science-org.remotexs.ntu.edu.sg/doi/abs/10.1126/science.ado7489).
 
