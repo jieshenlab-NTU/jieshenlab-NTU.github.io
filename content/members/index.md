@@ -31,28 +31,28 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   <h2 class="shen-member-group">Research Fellows</h2>
 
   <section class="shen-member" id="tang-meng">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>TM</span>
+    <div class="shen-member-photo">
+    <img src="/assets/media/group-members/Tang-Meng.jpg" alt="Tang Meng">
     </div>
     <div class="shen-member-body">
       <h2>Tang Meng</h2>
       <p class="shen-member-title">Research Fellow</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Membrane materials; separation applications</p>
+        <p><strong>Research interests:</strong> Membrane crude oil separation, conjugatd structure, CVD</p>
         <p><strong>Email:</strong> <a href="mailto:meng.tang@ntu.edu.sg">meng.tang@ntu.edu.sg</a></p>
       </div>
     </div>
   </section>
 
   <section class="shen-member" id="zhang-hao">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>ZH</span>
+    <div class="shen-member-photo">
+    <img src="/assets/media/group-members/Zhang-Hao.jpg" alt="Zhang Hao">
     </div>
     <div class="shen-member-body">
       <h2>Zhang Hao</h2>
       <p class="shen-member-title">Research Fellow</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Membrane materials; sustainable separation</p>
+        <p><strong>Research interests:</strong> Membrane separation, confined mass transfer, interfacial polymerization</p>
         <p><strong>Email:</strong> <a href="mailto:hao-zhang@ntu.edu.sg">hao-zhang@ntu.edu.sg</a></p>
       </div>
     </div>
@@ -61,12 +61,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   <h2 class="shen-member-group">PhD Students</h2>
 
   <section class="shen-member" id="lu-changan">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>LC</span>
+    <div class="shen-member-photo">
+    <img src="/assets/media/group-members/Lu-Changan.jpg" alt="Lu Changan">
     </div>
     <div class="shen-member-body">
       <h2>Lu Changan</h2>
       <p class="shen-member-title">PhD Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Membrane materials, Cation separation，Electrodialysis</p>
+        <p><strong>Email:</strong> <a href="mailto:CHANGAN001@e.ntu.edu.sg">CHANGAN001@e.ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
@@ -93,12 +97,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   </section>
 
   <section class="shen-member" id="li-yuefei">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>YF</span>
+    <div class="shen-member-photo">
+    <img src="/assets/media/group-members/Li-Yuefei.jpg" alt="Li Yuefei">
     </div>
     <div class="shen-member-body">
       <h2>Li Yuefei</h2>
       <p class="shen-member-title">MSc Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Electrospinning, MOF</p>
+        <p><strong>Email:</strong> <a href="mailto:YUEFEI001@e.ntu.edu.sg">YUEFEI001@e.ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
@@ -115,12 +123,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   </section>
 
   <section class="shen-member" id="zhang-pengrui">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>ZP</span>
+    <div class="shen-member-photo">
+    <img src="/assets/media/group-members/Zhang-Pengrui.jpg" alt="Zhang Pengrui">
     </div>
     <div class="shen-member-body">
       <h2>Zhang Pengrui</h2>
       <p class="shen-member-title">Visiting Scholar</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Ion-Selective Separation, Resource Valorization</p>
+        <p><strong>Email:</strong> <a href="mailto:CS-PENGRUI.ZHANG@ntu.edu.sg">CS-PENGRUI.ZHANG@ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
@@ -135,12 +147,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   </section>
 
   <section class="shen-member" id="lin-sen">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>LS</span>
+    <div class="shen-member-photo">
+    <img src="/assets/media/group-members/Lin-Sen.jpg" alt="Lin Sen">
     </div>
     <div class="shen-member-body">
       <h2>Lin Sen</h2>
       <p class="shen-member-title">Visiting Scholar</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Sulphide composite materials, Piezocatalysis, Photocatalysis</p>
+        <p><strong>Email:</strong> <a href="mailto:CS-SEN.LIN@ntu.edu.sg">CS-SEN.LIN@ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
