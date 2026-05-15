@@ -148,7 +148,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="lin-sen">
     <div class="shen-member-photo">
-    <img src="/media/group-members/Lin-Sen.jpg" alt="Lin Sen">
+    <img src="/media/Lin-Sen.jpg" alt="Lin Sen">
     </div>
     <div class="shen-member-body">
       <h2>Lin Sen</h2>
