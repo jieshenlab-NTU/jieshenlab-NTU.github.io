@@ -62,7 +62,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="lu-changan">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Lu-Changan.jpg" alt="Lu Changan">
+    <img src="/media/Lu-Changan.jpg" alt="Lu Changan">
     </div>
     <div class="shen-member-body">
       <h2>Lu Changan</h2>
@@ -98,7 +98,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="li-yuefei">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Li-Yuefei.jpg" alt="Li Yuefei">
+    <img src="/media/Li-Yuefei.jpg" alt="Li Yuefei">
     </div>
     <div class="shen-member-body">
       <h2>Li Yuefei</h2>
@@ -124,7 +124,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="zhang-pengrui">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Zhang-Pengrui.jpg" alt="Zhang Pengrui">
+    <img src="/media/Zhang-Pengrui.jpg" alt="Zhang Pengrui">
     </div>
     <div class="shen-member-body">
       <h2>Zhang Pengrui</h2>
@@ -148,7 +148,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="lin-sen">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Lin-Sen.jpg" alt="Lin Sen">
+    <img src="/media/Lin-Sen.jpg" alt="Lin Sen">
     </div>
     <div class="shen-member-body">
       <h2>Lin Sen</h2>
@@ -169,6 +169,10 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     <div class="shen-member-body">
       <h2>Liang Xiaozheng</h2>
       <p class="shen-member-title">Visiting Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Vermiculite</p>
+        <p><strong>Email:</strong> <a href="mailto:CS-SEN.LIN@ntu.edu.sg">CS-SEN.LIN@ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
