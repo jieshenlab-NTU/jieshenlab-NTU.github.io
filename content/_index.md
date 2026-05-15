@@ -118,10 +118,12 @@ sections:
       title: Contact
       text: |
         <div class="shen-contact-strip">
-          <a href="mailto:jie.shen@ntu.edu.sg">Email</a>
-          <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=lTyNfBsAAAAJ">Google Scholar</a>
-          <a href="https://www.linkedin.com/in/jie-shen-871536b8/">LinkedIn</a>
-          <a href="https://www.ntu.edu.sg/mse/about-us/our-people/faculty-staff/jieshen">Academic Profile</a>
+          <a class="shen-contact-email" href="mailto:jie.shen@ntu.edu.sg">jie.shen@ntu.edu.sg</a>
+          <div class="shen-contact-links">
+            <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=lTyNfBsAAAAJ">Google Scholar</a>
+            <a href="https://www.linkedin.com/in/jie-shen-871536b8/">LinkedIn</a>
+            <a href="https://www.ntu.edu.sg/mse/about-us/our-people/faculty-staff/jieshen">Academic Profile</a>
+          </div>
         </div>
     design:
       columns: "1"

@@ -121,8 +121,11 @@
 .shen-feature-slide img {
   align-self: center;
   justify-self: center;
+  height: auto;
   max-height: 500px;
+  max-width: 100%;
   object-fit: contain;
+  width: auto;
 }
 
 .shen-research-concept {
@@ -155,11 +158,20 @@
 }
 
 .shen-contact-strip {
+  display: grid;
+  gap: 0.8rem;
+  justify-items: stretch;
+  margin: 0 auto;
+  max-width: 100%;
+  text-align: center;
+  width: max-content;
+}
+
+.shen-contact-links {
   display: flex;
   flex-wrap: wrap;
   gap: 0.8rem;
   justify-content: center;
-  text-align: center;
 }
 
 .shen-contact-strip a {
@@ -170,7 +182,12 @@
   font-weight: 700;
   justify-content: center;
   line-height: 1.25;
+  overflow-wrap: anywhere;
   padding: 0.7rem 0.9rem;
+}
+
+.shen-contact-email {
+  width: 100%;
 }
 
 .shen-group-photo {
