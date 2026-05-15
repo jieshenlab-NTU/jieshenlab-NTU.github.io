@@ -113,12 +113,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   <h2 class="shen-member-group">Visiting Scholars</h2>
 
   <section class="shen-member" id="zhang-rui">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>ZR</span>
+    <div class="shen-member-photo">
+    <img src="/media/Zhang-Rui.jpg" alt="Zhang Rui">
     </div>
     <div class="shen-member-body">
       <h2>Zhang Rui</h2>
       <p class="shen-member-title">Visiting Scholar</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Imembrane separation,  bioseparation and adsorption</p>
+        <p><strong>Email:</strong> <a href="mailto: zhangr@hnust.edu.cn"> zhangr@hnust.edu.cn</a></p>
+      </div>
     </div>
   </section>
 
@@ -144,8 +148,8 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Liu Yazi</h2>
       <p class="shen-member-title">Visiting Scholar</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> photocatalys</p>
-        <p><strong>Email:</strong> <a href="mailto:CS-PENGRUI.ZHANG@ntu.edu.sg">CS-PENGRUI.ZHANG@ntu.edu.sg</a></p>
+        <p><strong>Research interests:</strong> Environmental Functional Materials, Solar-Driven Energy Conversion</p>
+        <p><strong>Email:</strong> <a href="mailto:yazi.liu@njnu.edu.cn">yazi.liu@njnu.edu.cn</a></p>
       </div>
     </div>
   </section>
