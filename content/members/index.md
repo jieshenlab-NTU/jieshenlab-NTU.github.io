@@ -46,7 +46,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="zhang-hao">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Zhang-Hao.jpg" alt="Zhang Hao">
+    <img src="/media/Zhang-Hao.jpg" alt="Zhang Hao">
     </div>
     <div class="shen-member-body">
       <h2>Zhang Hao</h2>
@@ -62,7 +62,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="lu-changan">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Lu-Changan.jpg" alt="Lu Changan">
+    <img src="/media/Lu-Changan.jpg" alt="Lu Changan">
     </div>
     <div class="shen-member-body">
       <h2>Lu Changan</h2>
@@ -98,7 +98,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="li-yuefei">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Li-Yuefei.jpg" alt="Li Yuefei">
+    <img src="/media/Li-Yuefei.jpg" alt="Li Yuefei">
     </div>
     <div class="shen-member-body">
       <h2>Li Yuefei</h2>
@@ -124,7 +124,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="zhang-pengrui">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Zhang-Pengrui.jpg" alt="Zhang Pengrui">
+    <img src="/media/Zhang-Pengrui.jpg" alt="Zhang Pengrui">
     </div>
     <div class="shen-member-body">
       <h2>Zhang Pengrui</h2>
@@ -148,7 +148,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="lin-sen">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Lin-Sen.jpg" alt="Lin Sen">
+    <img src="/media/group-members/Lin-Sen.jpg" alt="Lin Sen">
     </div>
     <div class="shen-member-body">
       <h2>Lin Sen</h2>
