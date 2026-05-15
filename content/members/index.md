@@ -32,7 +32,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="tang-meng">
     <div class="shen-member-photo">
-    <img src="/assets/media/group-members/Tang-Meng.jpg" alt="Tang Meng">
+    <img src="/media/group-members/Tang-Meng.jpg" alt="Tang Meng">
     </div>
     <div class="shen-member-body">
       <h2>Tang Meng</h2>
