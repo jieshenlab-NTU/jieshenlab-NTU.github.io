@@ -179,8 +179,8 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Ma Guangqiang</h2>
       <p class="shen-member-title">Alumni</p>
       <div class="shen-member-meta">
-        <p> <strong>Currnet position:</strong> Prof at Harvard </p>
-        <p><strong>Email:</strong> <a href="mailto:hao-zhang@ntu.edu.sg">hao-zhang@ntu.edu.sg</a></p>
+        <p> <strong>Currnet position:</strong> Postdoctoral fellow, KAUST, Thuwal, Saudi Arabia </p>
+        <p><strong>Email:</strong> <a href="mailto:guangqiang.ma@kaust.edu.sa">guangqiang.ma@kaust.edu.sa</a></p>
       </div>
     </div>
   </section>
