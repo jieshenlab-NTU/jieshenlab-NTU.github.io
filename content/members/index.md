@@ -137,12 +137,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   </section>
 
   <section class="shen-member" id="liu-yazi">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>YZ</span>
-    </div>
+     <div class="shen-member-photo">
+    <img src="/media/Liu-Yazi.jpg" alt="Liu yazi">
+        </div>
     <div class="shen-member-body">
       <h2>Liu Yazi</h2>
       <p class="shen-member-title">Visiting Scholar</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> photocatalys</p>
+        <p><strong>Email:</strong> <a href="mailto:CS-PENGRUI.ZHANG@ntu.edu.sg">CS-PENGRUI.ZHANG@ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
