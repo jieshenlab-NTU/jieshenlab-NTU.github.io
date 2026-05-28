@@ -9,10 +9,10 @@ sections:
       title:
       text: |
         <section class="shen-home-hero">
-          <p class="shen-eyebrow">Engineering Channel Materials</p>
-          <h1>Shen Research Group</h1>
-          <p>For energy, environment, and healthcare.</p>
-        </section>
+        <h1>Shen Research Group</h1>
+        <p style="color:#163B3E; text-transform:none; letter-spacing:normal;"> Engineering channel materials for energy, environment, and healthcare.
+    </p>
+  </section>
     design:
       columns: "1"
       background:
@@ -35,7 +35,7 @@ sections:
             <article class="carousel-item active">
               <div class="shen-feature-slide">
                 <div>
-                  <p class="shen-eyebrow">Science, 387 (2025) 776-782</p>
+                  <p class="shen-eyebrow">Science, 2025</p>
                   <h2>Engineering grain boundaries in monolayer molybdenum disulfide for efficient water-ion separation</h2>
                   <p>A key challenge for advancing membrane separation is the formation of uniform nanopores over large areas on robust 2D materials. Here, we show the engineering of atomically precise molecular channels in monolayer 2D films by using chemical vapor deposition. A high density of eight-membered rings is harnessed for fast single-file water transport while blocking ions.</p>
                   <p>A fascinating philosophy here: sometimes, "defects" make things "perfect"!</p>
@@ -69,7 +69,7 @@ sections:
             <article class="carousel-item">
               <div class="shen-feature-slide">
                 <div>
-                  <p class="shen-eyebrow">Nature, 550 (2017) 380-383</p>
+                  <p class="shen-eyebrow">Nature, 2017</p>
                   <h2>Cationic control of membrane pore size</h2>
                   <p>Graphene oxide membranes have been explored as ion-sieving devices for water purification and related applications. This work demonstrated control of interlayer spacing using ions themselves, enabling ionic sieving as smaller interlayer spacings prevent larger cations from penetrating the membrane.</p>
                   <p><a class="btn btn-primary btn-lg" href="https://www.nature.com/articles/nature24044">Read More</a></p>
@@ -80,7 +80,7 @@ sections:
             <article class="carousel-item">
               <div class="shen-feature-slide">
                 <div>
-                  <p class="shen-eyebrow">Science Advances, 6 (2020) eabb5367</p>
+                  <p class="shen-eyebrow">Science Advances, 2020</p>
                   <h2>Electronic skin has a strong future stretching ahead</h2>
                   <p>A durable electronic skin was created using a hydrogel reinforced with silica nanoparticles as a strong and stretchy substrate and two-dimensional titanium carbide MXene as the sensing layer. The multidimensional configuration enables a broad working range, fast response, resilience, linearity, and reproducibility.</p>
                   <p><a class="btn btn-primary btn-lg" href="https://www.science.org/doi/10.1126/sciadv.abb5367">Read More</a></p>
