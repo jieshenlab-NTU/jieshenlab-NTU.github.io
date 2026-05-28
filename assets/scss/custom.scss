@@ -130,9 +130,13 @@
 
 .shen-research-concept {
   display: block;
-  margin: 0 auto 2.5rem;
-  max-width: 860px;
-  width: 78%;
+  height: auto;
+  margin: 0 auto 2rem;
+  border-radius: 0;
+  box-shadow: none;
+  max-width: 100%;
+  object-fit: contain;
+  width: 500px;
 }
 
 .shen-profile img {
@@ -337,10 +341,6 @@
 
   .shen-home-hero {
     padding: 0.5rem 0 0.25rem;
-  }
-
-  .shen-research-concept {
-    width: 100%;
   }
 
   .shen-home-hero h1 {
