@@ -130,9 +130,14 @@
 
 .shen-research-concept {
   display: block;
-  margin: 0 auto 2.5rem;
-  max-width: 860px;
-  width: 78%;
+  height: auto;
+  margin: 0 auto 2rem;
+  border-radius: 0;
+  box-shadow: none;
+  max-height: 512px;
+  max-width: 100%;
+  object-fit: contain;
+  width: auto;
 }
 
 .shen-profile img {
@@ -340,6 +345,8 @@
   }
 
   .shen-research-concept {
+    max-height: 448px;
+    max-width: 100%;
     width: 100%;
   }
 
@@ -374,5 +381,17 @@
 
   .shen-member-photo {
     max-width: 320px;
+  }
+}
+
+@media (max-height: 900px) {
+  .shen-research-concept {
+    max-height: calc(80vh - 12.8rem);
+  }
+}
+
+@media (max-width: 768px) and (max-height: 780px) {
+  .shen-research-concept {
+    max-height: calc(80vh - 10.4rem);
   }
 }
