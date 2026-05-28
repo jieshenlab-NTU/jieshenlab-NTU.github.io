@@ -10,7 +10,7 @@ sections:
       text: |
         <section class="shen-home-hero">
           <h1>Shen Research Group</h1>
-          <p style="color:#163B3E; text-transform:none; letter-spacing:normal;"> Engineering channel materials for energy, environment, and healthcare.</p>
+          <p style="text-transform:none; letter-spacing:normal;"> Engineering channel materials for energy, environment, and healthcare.</p>
         </section>
     design:
       columns: "1"
