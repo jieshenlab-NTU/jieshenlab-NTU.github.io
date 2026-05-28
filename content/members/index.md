@@ -22,8 +22,8 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Dr. Jie Shen</h2>
-      <p class="shen-member-title">Assistant Professor &middot; School of Materials Science and Engineering, anyang Environment and Water Research Institute (NEWRI), Nanyang Technological University (NTU), Singapore</p>
-      <p>Dr. Jie Shen’s research focuses on the molecular-level design and mechanistic understanding of mass-transport channels, nanofluidics, and membrane materials. His work has been published in leading journals, including <em>Science<em>, <em>Nature<em>, <em>Nature Materials<em>, and <em>Nature Reviews Materials<em>. He was selected as an MIT Technology Review Innovator Under 35 Asia Pacific and has received several awards, including the Materials Today Rising Star Award by Elsevier, the AIChE SLS Outstanding Young Faculty Award, the 2D Materials Emerging Young Scientist Award by IOP Publishing, and the North American Membrane Society (NAMS) Young Membrane Scientist Award. He has also been recognized as one of the Global Top 2% Most-Cited Scientists by Stanford University and Elsevier over the past five years. Before joining NTU, he conducted postdoctoral research at King Abdullah University of Science and Technology (KAUST). He received his Ph.D. in Chemical Engineering from Nanjing Tech University and was a visiting researcher in Mechanical Engineering at the University of California, Berkeley.</p>
+      <p class="shen-member-title">Assistant Professor &middot; School of Materials Science and Engineering, Nanyang Environment and Water Research Institute (NEWRI), Nanyang Technological University (NTU), Singapore</p>
+      <p>Dr. Jie Shen’s research focuses on the molecular-level design and mechanistic understanding of mass-transport channels, nanofluidics, and membrane materials. His work has been published in leading journals, including <em>Science</em>, <em>Nature</em>, <em>Nature Materials</em>, and <em>Nature Reviews Materials</em>. He was selected as an MIT Technology Review Innovator Under 35 Asia Pacific and has received several awards, including the Materials Today Rising Star Award by Elsevier, the AIChE SLS Outstanding Young Faculty Award, the 2D Materials Emerging Young Scientist Award by IOP Publishing, and the North American Membrane Society (NAMS) Young Membrane Scientist Award. He has also been recognized as one of the Global Top 2% Most-Cited Scientists by Stanford University and Elsevier. Before joining NTU, he conducted postdoctoral research at King Abdullah University of Science and Technology (KAUST). He received his Ph.D. in Chemical Engineering from Nanjing Tech University and was a visiting researcher in Mechanical Engineering at the University of California, Berkeley.</p>
     </div>
   </section>
 
@@ -37,7 +37,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Tang Meng</h2>
       <p class="shen-member-title">Research Fellow</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Membrane crude oil separation, conjugatd structure, CVD</p>
+        <p><strong>Research interests:</strong> Membrane crude oil separation, conjugated structure, CVD</p>
         <p><strong>Email:</strong> <a href="mailto:meng.tang@ntu.edu.sg">meng.tang@ntu.edu.sg</a></p>
       </div>
     </div>
@@ -67,7 +67,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Lu Changan</h2>
       <p class="shen-member-title">PhD Student</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Membrane materials, Cation separation，Electrodialysis</p>
+        <p><strong>Research interests:</strong> Membrane materials, cation separation, electrodialysis</p>
         <p><strong>Email:</strong> <a href="mailto:CHANGAN001@e.ntu.edu.sg">CHANGAN001@e.ntu.edu.sg</a></p>
       </div>
     </div>
@@ -119,8 +119,8 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Zhang Rui</h2>
       <p class="shen-member-title">Visiting Scholar</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Imembrane separation,  bioseparation and adsorption</p>
-        <p><strong>Email:</strong> <a href="mailto: zhangr@hnust.edu.cn"> zhangr@hnust.edu.cn</a></p>
+        <p><strong>Research interests:</strong> Membrane separation, bioseparation, and adsorption</p>
+        <p><strong>Email:</strong> <a href="mailto:zhangr@hnust.edu.cn">zhangr@hnust.edu.cn</a></p>
       </div>
     </div>
   </section>
@@ -141,7 +141,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <section class="shen-member" id="liu-yazi">
      <div class="shen-member-photo">
-    <img src="/media/Liu-Yazi.jpg" alt="Liu yazi">
+    <img src="/media/Liu-Yazi.jpg" alt="Liu Yazi">
         </div>
     <div class="shen-member-body">
       <h2>Liu Yazi</h2>
@@ -186,7 +186,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Ma Guangqiang</h2>
       <p class="shen-member-title">Alumni</p>
       <div class="shen-member-meta">
-        <p> <strong>Currnet position:</strong> Postdoctoral fellow, KAUST, Saudi Arabia </p>
+        <p><strong>Current position:</strong> Postdoctoral fellow, KAUST, Saudi Arabia</p>
         <p><strong>Email:</strong> <a href="mailto:guangqiang.ma@kaust.edu.sa">guangqiang.ma@kaust.edu.sa</a></p>
       </div>
     </div>
