@@ -4,7 +4,6 @@ date: 2026-05-05
 summary: Peer-reviewed articles by Dr. Jie Shen.
 ---
 
-Dr. Jie Shen has 41 peer-reviewed papers, ~8000 citations, and h-index: 28 (Google Scholar, 16/02/2025). ORCID: 0000-0002-0263-6454.
 
 <div class="shen-links">
   <a href="https://scholar.google.com/citations?user=lTyNfBsAAAAJ&amp;hl=en">Google Scholar</a>
@@ -17,15 +16,21 @@ Dr. Jie Shen has 41 peer-reviewed papers, ~8000 citations, and h-index: 28 (Goog
   <section class="shen-publication-frame">
     <h3>After Joining NTU</h3>
     <ol>
+      <li>H. Zhang, C. Lu, Y. Han*, J. Shen*, R. Wang. Advanced Materials Design for Sustainable Clean Water Production Technologies. <em>Cell Reports Physical Science<em>, 2026, DOI: 10.1016/j.xcrp.2026.103218.</li>
       <li>J. Shen†, A. Aljarb†, Y. Cai†, X. Liu†, J. Min† et al. Engineering grain boundaries in monolayer molybdenum disulfide for an efficient water-ion separation. <em>Science</em>, 387 (2025) 776-782.</li>
       <li>Z. Chen, Q. Lei, Y. Ma, J. Wang, Y. Yan, J. Yin, J. Li, J. Shen, G. Li, T. Pan, X. Dong, B. Davaasuren, Y. Zhang, J. Liu, J. Tao*, and Y. Han*. Highly sensitive, responsive, and selective iodine gas sensor fabricated using AgI-functionalized graphene. <em>Nature Communications</em>, 16 (2025) 1169.</li>
+      <li>Y. Cai†, J. Shen† (co-first author), N. Yang†, Z. Chen, Y. Wan, Y. Chiang, L. Ee, Y. Wang, V. Tung, Y. Han, I. Pinnau, K. Huang, L. Li*, and X. Dong*. MXene-Fiber Composite Membranes for Permeable and Biocompatible Skin-Interfaced Iontronic Mechanosensing. <em>Nano Letters</em>, 2024, DOI: 10.1021/acs.nanolett.4c03896.</li>
+      <li>A. Zhang, K. Guan, S. Cao, Z. Li, L. Dai, M. Hu, P. Zhang, X. Yan, Y. Liu, J. Shen, H. Matsuyama. Interfacial polymerization regulated by self-assembled monomer complexes for organic solvent reverse osmosis membranes. </em>Journal of Membrane Science</em>, 741 (2026) 125108. DOI: 10.1016/j.memsci.2025.125108.<li>
+      <li>J. Li, Q. Liu, J. Shen, L. Cao, Y. Cai, W. Zhou, H. Zhang, X. Zhang, Y. Han, Z. Lai. High-strength conjugated-polymer-framework membranes for ultrafast and precise molecular sieving. </em>Nature Sustainability</em>, 2025, DOI: 10.1038/s41893-025-01705-7.<li>
+      <li>S. Duan, S. Jiang, P. Xu, Z. Li, P. Zhang, Y. Liu, A. Matsuoka, Y. Lin, J. Shen, K. Guan,* T. Yoshioka, H. Matsuyama*. Boosting Nanofiltration Membrane Selectivity via Amine-Polymer Additive Engineering for Efficient Lithium Extraction from Brine. </em>Advanced Science</em>, 2025, e13172. DOI: 10.1002/advs.202513172.<li>
+      <li>Y. Song, R. Zhang, B. Dong, Y. Liu, M. Zhang, X. Hu, J. Li, J. Zeng, K. Cheng, L. Zeng, J. Shen (2025). One-step engineering of multifunctional ZIF-8/PES membrane for synergistic separation of selected proteins, dyes and antibiotics. </em>Desalination</em>, 616 (2025), 119377.<li>
+      <li>Z. Chen, J. Wang, X. Liu, Y. Wang, J. Shen, J. Li, X. Liu, X. Li, W. Pei, Y. Guo, G. Shi, H. Li, A. Siddiqui, N. Rooij, L. Jiang, G. Zhou (2025). Crafting Hollow Spheres via Bulk Ice Melting with ppb-Level Gas Sensing Performance. </em>Journal of the American Chemical Society</em>, 147(2025) 3478−3487.<li>
     </ol>
   </section>
 
   <section class="shen-publication-frame">
     <h3>Before Joining NTU</h3>
     <ol>
-      <li>Y. Cai†, J. Shen† (co-first author), N. Yang†, Z. Chen, Y. Wan, Y. Chiang, L. Ee, Y. Wang, V. Tung, Y. Han, I. Pinnau, K. Huang, L. Li*, and X. Dong*. MXene-Fiber Composite Membranes for Permeable and Biocompatible Skin-Interfaced Iontronic Mechanosensing. <em>Nano Letters</em>, 2024, DOI: 10.1021/acs.nanolett.4c03896.</li>
       <li>Jie Shen†, Yichen Cai†, Chenhui Zhang†, Wan Wei†, Cailing Chen, Lingmei Liu, Kuiwei Yang, Yinchang Ma, Yingge Wang, Chien-Chih Tseng, Jui-Han Fu, Xinglong Dong, Jiaqiang Li, Xi-Xiang Zhang, Lain-Jong Li, Jianwen Jiang*, Ingo Pinnau*, Vincent Tung* and Yu Han*. Fast water transport and molecular sieving through ultrathin ordered conjugated-polymer-framework membranes. <em>Nature Materials</em>, 2022, DOI: 10.1038/s41563-022-01325-y.</li>
       <li>Yichen Cai†, Jie Shen† (Co first-author), Jui-Han Fu, Nadeem Qaiser, Cailing Chen, Chien-Chih Tseng, Mariam Hakami, Zheng Yang, Xiaochen Dong, Lain-Jong Li*, Yu Han*, and Vincent Tung*. Graphdiyne-based nanofilms for compliant on-skin sensing. <em>ACS Nano</em>, 2022, DOI: 10.1021/acsnano.2c06169.</li>
       <li>Jie Shen, Gongping Liu, Yu Han and Wanqin Jin*. Artificial channels for confined mass transport at the sub-nanometre scale. <em>Nature Reviews Materials</em>, 6 (2021), 294-312. (ESI Top 1% cited paper).</li>

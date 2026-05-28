@@ -22,9 +22,8 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
     <div class="shen-member-body">
       <h2>Dr. Jie Shen</h2>
-      <p class="shen-member-title">Assistant Professor &middot; School of Materials Science and Engineering, Nanyang Technological University</p>
-      <p>Jie Shen is an assistant professor at the School of Materials Science and Engineering, Nanyang Technological University (NTU), Singapore. His current research is centered on the molecular-level designing and understanding of mass-transport channels, nanofluidics, and membrane materials.</p>
-      <p>Harnessing channels and membranes as versatile platforms, the Shen Research Group is dedicated to advancing next-generation sustainable technologies for challenges related to energy, environment, and healthcare.</p>
+      <p class="shen-member-title">Assistant Professor &middot; School of Materials Science and Engineering, anyang Environment and Water Research Institute (NEWRI), Nanyang Technological University (NTU), Singapore</p>
+      <p>Dr. Jie Shen’s research focuses on the molecular-level design and mechanistic understanding of mass-transport channels, nanofluidics, and membrane materials. His work has been published in leading journals, including <em>Science<em>, <em>Nature<em>, <em>Nature Materials<em>, and <em>Nature Reviews Materials<em>. He was selected as an MIT Technology Review Innovator Under 35 Asia Pacific and has received several awards, including the Materials Today Rising Star Award by Elsevier, the AIChE SLS Outstanding Young Faculty Award, the 2D Materials Emerging Young Scientist Award by IOP Publishing, and the North American Membrane Society (NAMS) Young Membrane Scientist Award. He has also been recognized as one of the Global Top 2% Most-Cited Scientists by Stanford University and Elsevier over the past five years. Before joining NTU, he conducted postdoctoral research at King Abdullah University of Science and Technology (KAUST). He received his Ph.D. in Chemical Engineering from Nanjing Tech University and was a visiting researcher in Mechanical Engineering at the University of California, Berkeley.</p>
     </div>
   </section>
 

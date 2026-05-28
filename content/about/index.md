@@ -4,7 +4,7 @@ date: 2026-05-05
 summary: Biography, research interests, honors, and awards for Dr. Jie Shen.
 ---
 
-Jie Shen is an assistant professor at the School of Materials Science and Engineering, Nanyang Technological University (NTU), Singapore. Before he joined NTU, he conducted his postdoctoral research at King Abdullah University of Science and Technology (KAUST). He earned his Ph.D. in Chemical Engineering at Nanjing Tech University and was a visiting researcher in Mechanical Engineering at the University of California, Berkeley.
+Jie Shen is an assistant professor at the School of Materials Science and Engineering, Nanyang Environment and Water Research Institute (NEWRI), Nanyang Technological University (NTU), Singapore. Before he joined NTU, he conducted his postdoctoral research at King Abdullah University of Science and Technology (KAUST). He earned his Ph.D. in Chemical Engineering at Nanjing Tech University and was a visiting researcher in Mechanical Engineering at the University of California, Berkeley.
 
 His current research is centered on the molecular-level designing and understanding of mass-transport channels, nanofluidics, and membrane materials.
 
