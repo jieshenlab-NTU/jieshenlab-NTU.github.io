@@ -10,8 +10,6 @@ aliases:
 
 We warmly welcome creative, dedicated, and highly motivated individuals to join our laboratory! Prospective PhD students, Postdoctoral Fellows, Visiting Scholars, Research Assistants, and Master/Undergraduate research students with a keen interest in channels and membranes are encouraged to apply. Currently, we are particularly interested in candidates with research experience in 2D materials or nanoporous materials synthesis, nanofluidics, membrane separation, electrochemistry, and related fields.
 
-PhD candidates will be able to join in August 2025, while other individuals, including Postdoctoral Fellows, Visiting Scholars, Research Assistants, and Master/Undergraduate research students, are welcome to join our lab starting January 2025.
-
 Interested candidates should email Dr. Jie Shen at [jie.shen@ntu.edu.sg](mailto:jie.shen@ntu.edu.sg) with a CV.
 
 ## PhD scholarship opportunities @ NTU
