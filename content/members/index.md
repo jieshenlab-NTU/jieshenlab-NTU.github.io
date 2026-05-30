@@ -74,24 +74,32 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   </section>
 
   <section class="shen-member" id="li-yanan">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>YN</span>
+    <div class="shen-member-photo">
+    <img src="/media/Li-Yanan.jpg" alt="Li Yanan">
     </div>
     <div class="shen-member-body">
       <h2>Li Yanan</h2>
       <p class="shen-member-title">PhD Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Two-dimensional membranes, Membrane separation, Membrane catalysis</p>
+        <p><strong>Email:</strong> <a href="mailto:YANAN005@e.ntu.edu.sg">YANAN005@e.ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
   <h2 class="shen-member-group">MSc Students</h2>
 
   <section class="shen-member" id="wang-junru">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>WJ</span>
+    <div class="shen-member-photo">
+    <img src="/media/Wang-Junru.jpg" alt="Wang Junru">
     </div>
     <div class="shen-member-body">
       <h2>Wang Junru</h2>
       <p class="shen-member-title">MSc Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Organic Solvent Nanofiltration </p>
+        <p><strong>Email:</strong> <a href="mailto:JUNRU002@e.ntu.edu.sg">JUNRU002@e.ntu.edu.sg</a></p>
+      </div>
     </div>
   </section>
 
@@ -170,12 +178,16 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
   <h2 class="shen-member-group">Visiting Students</h2>
 
   <section class="shen-member" id="liang-xiaozheng">
-    <div class="shen-member-photo shen-member-placeholder" aria-hidden="true">
-      <span>LX</span>
+    <div class="shen-member-photo">
+    <img src="/media/Liang-Xiaozheng.jpg" alt="Liang Xiaozheng">
     </div>
     <div class="shen-member-body">
       <h2>Liang Xiaozheng</h2>
       <p class="shen-member-title">Visiting Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Mineral materials, Nanoclay, Two-dimensional membranes</p>
+        <p><strong>Email:</strong> <a href="mailto:xzliang@csu.edu.cn">xzliang@csu.edu.cn</a></p>
+      </div>
     </div>
   </section>
 
