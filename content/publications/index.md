@@ -17,7 +17,7 @@ summary: Peer-reviewed articles by Dr. Jie Shen.
 <div class="shen-publication-groups">
   <section class="shen-publication-frame">
     <h3>After joining NTU</h3>
-    <ol>
+    <ol reversed start="46">
       <li>H. Zhang, C. Lu, Y. Han*, <strong>J. Shen*</strong>, R. Wang. Advanced Materials Design for Sustainable Clean Water Production Technologies. <strong><em>Cell Reports Physical Science</em></strong>, 2026, DOI: 10.1016/j.xcrp.2026.103218.</li>
       <li>A. Zhang, K. Guan, S. Cao, Z. Li, L. Dai, M. Hu, P. Zhang, X. Yan, Y. Liu, <strong>J. Shen</strong>, H. Matsuyama. Interfacial polymerization regulated by self-assembled monomer complexes for organic solvent reverse osmosis membranes. <strong><em>Journal of Membrane Science</em></strong>, 741 (2026) 125108. DOI: 10.1016/j.memsci.2025.125108.</li>
       <li><strong>J. Shen</strong>†, A. Aljarb†, Y. Cai†, X. Liu†, J. Min†, Y. Wang, C. Zhang, C. Chen, M. Hakami, J. Fu, H. Zhang, G. Li, X. Wang, Z. Chen, J. Li, X. Dong, V. Tung*, G. Shi*, I. Pinnau*, L. Li*, and Y. Han*. Engineering grain boundaries in monolayer molybdenum disulfide for an efficient water-ion separation. <strong><em>Science</em></strong>, 387 (2025) 776–782.</li>
@@ -32,7 +32,7 @@ summary: Peer-reviewed articles by Dr. Jie Shen.
 
   <section class="shen-publication-frame">
     <h3>Before joining NTU</h3>
-    <ol>
+    <ol reversed start="37">
       <li>C. Li, L. Chen, F. Jiang, Z. Song, B. Chen, X. Wang, E. Ugur, A. Balvanz, J. Hu, A. Maxwell, H. Chen, Y. Liu, Z. Wang, P. Xia, Y. Li, S. Fu, N. Sun, C. Grice, X. Wu, Z. Fink, L. Zeng, E. Jung, J. Wang, S. Park, D. Luo, J. Liu, C. Liu, Q. Hu, C. Chen, <strong>J. Shen</strong>, Y. Han, C. Perini, J. Baena, Z. Lu, T. Russell, S. Wolf, M. Kanatzidis, D. Ginger, Y. Yan*, E. Sargent*. Diamine Chelates for Increased Stability in Mixed Sn–Pb and All-Perovskite Tandem Solar Cells. <strong><em>Nature Energy</em></strong>, 9 (2024) 1388–1396.</li>
       <li>C. Chen, L. Meng, L. Cao, D. Zhang, S. An, L. Liu, J. Wang, G. Li, T. Pan, <strong>J. Shen</strong>, Z. Chen, Z. Shi, Z. Lai*, and Y. Han*. Phase Engineering of Zirconium MOFs Enables Efficient Osmotic Energy Conversion: Structural Evolution Unveiled by Direct Imaging. <strong><em>Journal of the American Chemical Society</em></strong>, 146 (2024) 11855–11865.</li>
       <li>Y. Wang, V. Kumar, F. Elahi, B. Ghanem, M. Balcik, <strong>J. Shen</strong>, Y. Han, and I. Pinnau*. Amidoxime-Functionalized Tetraphenylethylene Ladder Polymer for Efficient Membrane-Based Gas Separations. <strong><em>European Polymer Journal</em></strong>, 209 (2024) 112896.</li>

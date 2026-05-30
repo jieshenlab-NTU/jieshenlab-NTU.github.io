@@ -31,6 +31,7 @@ header:
     highlight_active_link: true
 
 footer:
+  dev_credit: 'Dev: [Yijie](https://www.student.math.uwaterloo.ca/~y678zhao/) & Lu Changan.'
   copyright:
     notice: '© {year} Jie Shen.'
     license:
