@@ -9,7 +9,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 </div>
 
 <figure class="shen-group-photo">
-  <img src="/workspaces/jieshenlab-NTU.github.io/assets/media/shen group photo 2026OCT upload ver.jpg" alt="Shen Research Group members in 2026">
+  <img src="media/shen group photo 2026OCT upload ver.jpg" alt="Shen Research Group members in 2026">
   <figcaption>Shen Research Group, 2026<br/>People advancing channel materials research</figcaption>
 </figure>
 
