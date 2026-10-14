@@ -1,6 +1,6 @@
 ---
 title: Fall 2026 Group Gathering
-date: 2026-10-16
+date: 2026-10-14
 authors:
   -   Lu-Changan
 tags:
