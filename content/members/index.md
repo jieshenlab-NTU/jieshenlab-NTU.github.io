@@ -190,6 +190,20 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
   </section>
 
+   <section class="shen-member" id="Li-Zeng">
+    <div class="shen-member-photo">
+    <img src="/media/Li-Zeng.jpg" alt="Li Zeng">
+    </div>
+    <div class="shen-member-body">
+      <h2>Li Zeng</h2>
+      <p class="shen-member-title">Visiting Scholar</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> 2D membrane materials, Membrane catalysis, Resource recovery</p>
+        <p><strong>Email:</strong> <a href="mailto:CS-ZENG.LI@ntu.edu.sg">CS-ZENG.LI@ntu.edu.sg</a></p>
+      </div>
+    </div>
+  </section>
+
   <h2 class="shen-member-group">Visiting Students</h2>
 
   <section class="shen-member" id="liang-xiaozheng">
