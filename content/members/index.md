@@ -57,6 +57,20 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
   </section>
 
+  <section class="shen-member" id="hu-yuhao">
+    <div class="shen-member-photo">
+    <img src="/media/Hu-Yuhao.jpg" alt="Hu Yuhao">
+    </div>
+    <div class="shen-member-body">
+      <h2>Hu Yuhao</h2>
+      <p class="shen-member-title">Research Fellow</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Nanofluidics，ion sieving，ionic computation</p>
+        <p><strong>Email:</strong> <a href="mailto:yuhao.hu@ntu.edu.sg">yuhao.hu@ntu.edu.sg</a></p>
+      </div>
+    </div>
+  </section>
+
   <h2 class="shen-member-group">PhD Students</h2>
 
   <section class="shen-member" id="lu-changan">
@@ -83,6 +97,20 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <div class="shen-member-meta">
         <p><strong>Research interests:</strong> Two-dimensional membranes, Membrane separation, Membrane catalysis</p>
         <p><strong>Email:</strong> <a href="mailto:YANAN005@e.ntu.edu.sg">YANAN005@e.ntu.edu.sg</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="shen-member" id="Wu-Jingyi">
+    <div class="shen-member-photo">
+    <img src="/media/Wu-Jingyi.jpg" alt="Wu Jingyi">
+    </div>
+    <div class="shen-member-body">
+      <h2>Wu Jingyi</h2>
+      <p class="shen-member-title">PhD Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Membrane materials, membrane separation, nanofluidics catalysis</p>
+        <p><strong>Email:</strong> <a href="mailto:WU0009YI@e.ntu.edu.sg">WU0009YI@e.ntu.edu.sg</a></p>
       </div>
     </div>
   </section>
@@ -119,20 +147,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
 
   <h2 class="shen-member-group">Visiting Scholars</h2>
 
-  <section class="shen-member" id="zhang-rui">
-    <div class="shen-member-photo">
-    <img src="/media/Zhang-Rui.jpg" alt="Zhang Rui">
-    </div>
-    <div class="shen-member-body">
-      <h2>Zhang Rui</h2>
-      <p class="shen-member-title">Visiting Scholar</p>
-      <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Membrane separation, bioseparation, and adsorption</p>
-        <p><strong>Email:</strong> <a href="mailto:zhangr@hnust.edu.cn">zhangr@hnust.edu.cn</a></p>
-      </div>
-    </div>
-  </section>
-
+  
   <section class="shen-member" id="zhang-pengrui">
     <div class="shen-member-photo">
     <img src="/media/Zhang-Pengrui.jpg" alt="Zhang Pengrui">
@@ -200,6 +215,17 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <div class="shen-member-meta">
         <p><strong>Current position:</strong> Postdoctoral fellow, KAUST, Saudi Arabia</p>
         <p><strong>Email:</strong> <a href="mailto:guangqiang.ma@kaust.edu.sa">guangqiang.ma@kaust.edu.sa</a></p>
+      </div>
+    </div>
+  </section>
+
+  <section class="shen-member shen-member-text-only" id="ma-guangqiang">
+    <div class="shen-member-body">
+      <h2>Zhang Rui</h2>
+      <p class="shen-member-title">Alumni</p>
+      <div class="shen-member-meta">
+        <p><strong>Current position:</strong> Associate professor, Hunan University of Science and Technology (HNUST), China</p>
+        <p><strong>Email:</strong> <a href="mailto:zhangr@hnust.edu.cn">zhangr@hnust.edu.cn</a></p>
       </div>
     </div>
   </section>
