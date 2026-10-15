@@ -385,6 +385,7 @@
   padding: 5rem 1rem;
   margin-top: 3rem;
 
+  /* 关键：突破 article 宽度，做成整屏色带 */
   width: 100vw;
   margin-left: calc(50% - 50vw);
   margin-right: calc(50% - 50vw);
