@@ -159,7 +159,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
   </section>
 
-<section class="shen-member" id="zu-shiyan">
+<section class="shen-member" id="zhu-shiyan">
     <div class="shen-member-photo">
     <img src="/media/Zhu-Shiyan.jpg" alt="Zhu Shiyan">
     </div>
