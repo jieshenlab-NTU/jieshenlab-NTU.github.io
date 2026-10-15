@@ -23,3 +23,22 @@ Interested candidates should email Dr. Jie Shen at [jie.shen@ntu.edu.sg](mailto:
 - [Presidential Postdoctoral Fellowship (PPF)](https://www.ntu.edu.sg/research/research-careers/presidential-postdoctoral-fellowship-(ppf))
 - [Lee Kuan Yew Postdoctoral Fellowship (LKYPDF)](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf))
 - [The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)
+
+
+  - block: markdown
+    content:
+      title: Contact
+      text: |
+        <div class="shen-contact-strip">
+          <a class="shen-contact-email" href="mailto:jie.shen@ntu.edu.sg">jie.shen@ntu.edu.sg</a>
+          <div class="shen-contact-links">
+            <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=lTyNfBsAAAAJ">Google Scholar</a>
+            <a href="https://www.linkedin.com/in/jie-shen-871536b8/">LinkedIn</a>
+            <a href="https://www.ntu.edu.sg/mse/about-us/our-people/faculty-staff/jieshen">Academic Profile</a>
+          </div>
+        </div>
+    design:
+      columns: "1"
+      background:
+        color: "#f7faf9"
+---
