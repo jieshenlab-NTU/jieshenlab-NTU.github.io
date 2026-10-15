@@ -24,6 +24,7 @@ Interested candidates should email Dr. Jie Shen at [jie.shen@ntu.edu.sg](mailto:
 - [Lee Kuan Yew Postdoctoral Fellowship (LKYPDF)](https://www.ntu.edu.sg/research/research-careers/lee-kuan-yew-postdoctoral-fellowship-(lkypdf))
 - [The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)
 
+sections:
 
   - block: markdown
     content:
