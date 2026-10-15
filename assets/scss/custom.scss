@@ -377,26 +377,29 @@
   }
 }
 
-
-/* Join Us - full width Contact band */
+/* =========================================
+   Join Us - Contact Section
+   Reuse homepage Contact styles
+   ========================================= */
 
 .shen-join-contact {
-  background: #f7faf9;
+  box-sizing: border-box;
+
+  /* Spacing */
+  margin: 4rem 0 0;
   padding: 5rem 1rem;
-  margin-top: 3rem;
 
-  /* 关键：突破 article 宽度，做成整屏色带 */
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-right: calc(50% - 50vw);
-}
+  /* Full-width background */
+  background: #f7faf9;
+  box-shadow: 0 0 0 100vmax #f7faf9;
+  clip-path: inset(0 -100vmax);
 
-.shen-join-contact-inner {
-  max-width: 1120px;
-  margin: 0 auto;
+  /* Typography */
   text-align: center;
-  font-size: 1rem;
+  font-size: 16px;
 }
+
+/* Contact heading */
 
 .article-style .shen-join-contact h2 {
   font-size: 2.25rem;
@@ -406,7 +409,33 @@
   margin: 0 0 1rem;
 }
 
+/* Reuse existing Contact layout */
+
 .shen-join-contact .shen-contact-strip {
   margin-left: auto;
   margin-right: auto;
+}
+
+/* Prevent article typography from enlarging buttons */
+
+.shen-join-contact .shen-contact-strip a {
+  font-size: 16px;
+  text-decoration: none;
+}
+
+/* Mobile */
+
+@media (max-width: 768px) {
+  .shen-join-contact {
+    margin-top: 3rem;
+    padding: 4rem 1rem;
+  }
+
+  .article-style .shen-join-contact h2 {
+    font-size: 2rem;
+  }
+
+  .shen-join-contact .shen-contact-strip a {
+    font-size: 14px;
+  }
 }

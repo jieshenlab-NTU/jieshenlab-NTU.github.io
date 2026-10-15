@@ -1,6 +1,7 @@
+
 ---
 title: Join us!
-date: 2026-05-05
+date: 2026-10-15
 summary: Openings for PhD students, research fellows, visiting scholars, research assistants, and students.
 aliases:
   - /general-5/
@@ -25,16 +26,15 @@ Interested candidates should email Dr. Jie Shen at [jie.shen@ntu.edu.sg](mailto:
 - [The Eric and Wendy Schmidt AI in Science Postdoctoral Fellowship](https://www.ntu.edu.sg/research/research-careers/the-eric-and-wendy-schmidt-ai-in-science-postdoctoral-fellowship)
 
 <section class="shen-join-contact">
-  <div class="shen-join-contact-inner">
-    <h2>Contact</h2>
+  <h2>Contact</h2>
 
-    <div class="shen-contact-strip">
-      <a class="shen-contact-email" href="mailto:jie.shen@ntu.edu.sg">jie.shen@ntu.edu.sg</a>
-      <div class="shen-contact-links">
-        <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=lTyNfBsAAAAJ">Google Scholar</a>
-        <a href="https://www.linkedin.com/in/jie-shen-871536b8/">LinkedIn</a>
-        <a href="https://www.ntu.edu.sg/mse/about-us/our-people/faculty-staff/jieshen">Academic Profile</a>
-      </div>
+  <div class="shen-contact-strip">
+    <a class="shen-contact-email" href="mailto:jie.shen@ntu.edu.sg">jie.shen@ntu.edu.sg</a>
+
+    <div class="shen-contact-links">
+      <a href="https://scholar.google.com/citations?hl=zh-CN&amp;user=lTyNfBsAAAAJ">Google Scholar</a>
+      <a href="https://www.linkedin.com/in/jie-shen-871536b8/">LinkedIn</a>
+      <a href="https://www.ntu.edu.sg/mse/about-us/our-people/faculty-staff/jieshen">Academic Profile</a>
     </div>
   </div>
 </section>
