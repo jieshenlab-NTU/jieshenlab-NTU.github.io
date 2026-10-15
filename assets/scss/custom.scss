@@ -378,17 +378,21 @@
 }
 
 
-/* Join Us - Contact Section */
+/* Join Us - full width Contact band */
 
 .shen-join-contact {
-  position: relative;
-  left: 50%;
-  width: 100vw;
-  margin-left: -50vw;
-  box-sizing: border-box;
-
   background: #f7faf9;
   padding: 5rem 1rem;
+  margin-top: 3rem;
+
+  width: 100vw;
+  margin-left: calc(50% - 50vw);
+  margin-right: calc(50% - 50vw);
+}
+
+.shen-join-contact-inner {
+  max-width: 1120px;
+  margin: 0 auto;
   text-align: center;
   font-size: 1rem;
 }
@@ -399,4 +403,9 @@
   line-height: 1.2;
   text-align: center;
   margin: 0 0 1rem;
+}
+
+.shen-join-contact .shen-contact-strip {
+  margin-left: auto;
+  margin-right: auto;
 }
