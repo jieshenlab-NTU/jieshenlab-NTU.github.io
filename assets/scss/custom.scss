@@ -376,3 +376,27 @@
     max-width: 320px;
   }
 }
+
+
+/* Join Us - Contact Section */
+
+.shen-join-contact {
+  position: relative;
+  left: 50%;
+  width: 100vw;
+  margin-left: -50vw;
+  box-sizing: border-box;
+
+  background: #f7faf9;
+  padding: 5rem 1rem;
+  text-align: center;
+  font-size: 1rem;
+}
+
+.article-style .shen-join-contact h2 {
+  font-size: 2.25rem;
+  font-weight: 400;
+  line-height: 1.2;
+  text-align: center;
+  margin: 0 0 1rem;
+}
