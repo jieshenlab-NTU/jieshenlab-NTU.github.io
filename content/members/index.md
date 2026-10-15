@@ -65,7 +65,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Hu Yuhao</h2>
       <p class="shen-member-title">Research Fellow</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Nanofluidics，ion sieving，ionic computation</p>
+        <p><strong>Research interests:</strong> Nanofluidics, ion sieving, ionic computation</p>
         <p><strong>Email:</strong> <a href="mailto:yuhao.hu@ntu.edu.sg">yuhao.hu@ntu.edu.sg</a></p>
       </div>
     </div>
