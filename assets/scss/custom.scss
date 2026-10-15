@@ -377,29 +377,35 @@
   }
 }
 
-/* =========================================
-   Join Us - Contact Section
-   Reuse homepage Contact styles
-   ========================================= */
+
+/* Join Us - Contact */
 
 .shen-join-contact {
+  position: relative;
+  isolation: isolate;
   box-sizing: border-box;
-
-  /* Spacing */
   margin: 4rem 0 0;
   padding: 5rem 1rem;
-
-  /* Full-width background */
-  background: #f7faf9;
-  box-shadow: 0 0 0 100vmax #f7faf9;
-  clip-path: inset(0 -100vmax);
-
-  /* Typography */
   text-align: center;
   font-size: 16px;
+  background: transparent;
 }
 
-/* Contact heading */
+/* Full-width background */
+
+.shen-join-contact::before {
+  content: "";
+  position: absolute;
+  z-index: -1;
+  top: 0;
+  bottom: 0;
+  left: 50%;
+  width: 100vw;
+  transform: translateX(-50%);
+  background: #f7faf9;
+}
+
+/* Heading */
 
 .article-style .shen-join-contact h2 {
   font-size: 2.25rem;
@@ -409,14 +415,11 @@
   margin: 0 0 1rem;
 }
 
-/* Reuse existing Contact layout */
+/* Reuse homepage Contact styles */
 
 .shen-join-contact .shen-contact-strip {
-  margin-left: auto;
-  margin-right: auto;
+  margin: 0 auto;
 }
-
-/* Prevent article typography from enlarging buttons */
 
 .shen-join-contact .shen-contact-strip a {
   font-size: 16px;
@@ -427,7 +430,6 @@
 
 @media (max-width: 768px) {
   .shen-join-contact {
-    margin-top: 3rem;
     padding: 4rem 1rem;
   }
 
