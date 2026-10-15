@@ -109,7 +109,7 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <h2>Wu Jingyi</h2>
       <p class="shen-member-title">PhD Student</p>
       <div class="shen-member-meta">
-        <p><strong>Research interests:</strong> Membrane materials, membrane separation, nanofluidics catalysis</p>
+        <p><strong>Research interests:</strong> Membrane materials, membrane separation, nanofluidics</p>
         <p><strong>Email:</strong> <a href="mailto:WU0009YI@e.ntu.edu.sg">WU0009YI@e.ntu.edu.sg</a></p>
       </div>
     </div>
@@ -141,6 +141,20 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
       <div class="shen-member-meta">
         <p><strong>Research interests:</strong> Electrospinning, MOF</p>
         <p><strong>Email:</strong> <a href="mailto:YUEFEI001@e.ntu.edu.sg">YUEFEI001@e.ntu.edu.sg</a></p>
+      </div>
+    </div>
+  </section>
+
+   <section class="shen-member" id="zhou-yuzhuo">
+    <div class="shen-member-photo">
+    <img src="/media/Zhou-Yuzhuo.jpg" alt="Zhou Yuzhuo">
+    </div>
+    <div class="shen-member-body">
+      <h2>Zhou Yuzhuo</h2>
+      <p class="shen-member-title">MSc Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> 2D membrane materials, Membrane separation</p>
+        <p><strong>Email:</strong> <a href="mailto:ZHOU0692@e.ntu.edu.sg">ZHOU0692@e.ntu.edu.sg</a></p>
       </div>
     </div>
   </section>
