@@ -159,6 +159,20 @@ summary: Members of the Shen Research Group at Nanyang Technological University.
     </div>
   </section>
 
+<section class="shen-member" id="zu-shiyan">
+    <div class="shen-member-photo">
+    <img src="/media/Zhu-Shiyan.jpg" alt="Zhu Shiyan">
+    </div>
+    <div class="shen-member-body">
+      <h2>Zhu Shiyan</h2>
+      <p class="shen-member-title">MSc Student</p>
+      <div class="shen-member-meta">
+        <p><strong>Research interests:</strong> Nanofiltration membrane, ion separation</p>
+        <p><strong>Email:</strong> <a href="mailto:shiyan002@e.ntu.edu.sg">shiyan002@e.ntu.edu.sg</a></p>
+      </div>
+    </div>
+  </section>
+
   <h2 class="shen-member-group">Visiting Scholars</h2>
 
   
